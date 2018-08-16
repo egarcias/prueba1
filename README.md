@@ -1,2 +1,9 @@
 # prueba1
-Prueba de la creación de sitios web con rmarkdown 1
+
+Esta es una prueba piloto antes de subir el workflowr project
+
+Segundo intento de hacer commit en el computador local
+
+Tercer intento de hacer commit en el pc
+
+Cuarto intento de hacer commit
